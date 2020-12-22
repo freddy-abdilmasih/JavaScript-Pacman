@@ -1,3 +1,3 @@
-# JavaScript-Pacman
-Pacman created with JavaScript/HTML/CSS
-npm required to start up the dev server
+# JavaScript-Pacman<br>
+Pacman created with JavaScript/HTML/CSS<br>
+*npm required to start up the dev server
